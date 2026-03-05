@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "nevermind",
+  "base_artist": "muque",
+  "createdAt": "2026-03-05T16:53:42.163772Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Nevermind the End",
+      "artist": "Tei Shi",
+      "has_synced": true,
+      "path": "select/01_Nevermind_the_End_Tei_Shi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Nevermind",
+      "artist": "Texas",
+      "has_synced": false,
+      "path": "select/02_Nevermind_Texas.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Nevermind the Phonecalls",
+      "artist": "Earlimart",
+      "has_synced": true,
+      "path": "select/03_Nevermind_the_Phonecalls_Earlimart.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Nevermind",
+      "artist": "Red Hot Chili Peppers",
+      "has_synced": true,
+      "path": "select/04_Nevermind_Red_Hot_Chili_Peppers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Nevermind (What Was It Anyway)",
+      "artist": "Sonic Youth",
+      "has_synced": true,
+      "path": "select/05_Nevermind_(What_Was_It_Anyway)_Sonic_Youth.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Nevermind me",
+      "artist": "María Mena",
+      "has_synced": false,
+      "path": "select/06_Nevermind_me_María_Mena.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Nevermind",
+      "artist": "Unwritten Law",
+      "has_synced": true,
+      "path": "select/07_Nevermind_Unwritten_Law.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Nevermind (Acoustic Version)",
+      "artist": "Unwritten Law",
+      "has_synced": false,
+      "path": "select/08_Nevermind_(Acoustic_Version)_Unwritten_Law.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "nevermind",
+      "artist": "Valley",
+      "has_synced": false,
+      "path": "select/09_nevermind_Valley.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Nevermind (feat. Justin Magnaye)",
+      "artist": "Phoneboy feat. Justin Magnaye",
+      "has_synced": true,
+      "path": "select/10_Nevermind_(feat._Justin_Magnaye)_Phoneboy_feat._Justin_Magnaye.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Nevermind",
+      "artist": "Phoneboy",
+      "has_synced": true,
+      "path": "select/11_Nevermind_Phoneboy.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Nevermind (feat. Justin Magnaye)",
+      "artist": "Phoneboy",
+      "has_synced": true,
+      "path": "select/12_Nevermind_(feat._Justin_Magnaye)_Phoneboy.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Nevermind",
+      "artist": "Dennis Lloyd",
+      "has_synced": true,
+      "path": "select/13_Nevermind_Dennis_Lloyd.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Nevermind (Wankelmut Remix)",
+      "artist": "Dennis Lloyd feat. Wankelmut",
+      "has_synced": false,
+      "path": "select/14_Nevermind_(Wankelmut_Remix)_Dennis_Lloyd_feat._Wankelmut.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Nevermind (Wankelmut Remix)",
+      "artist": "Dennis Lloyd/Wankelmut",
+      "has_synced": false,
+      "path": "select/15_Nevermind_(Wankelmut_Remix)_Dennis_Lloyd_Wankelmut.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Nevermind",
+      "artist": "Flumpool",
+      "has_synced": true,
+      "path": "select/16_Nevermind_Flumpool.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Nevermind",
+      "artist": "Deaf Havana",
+      "has_synced": true,
+      "path": "select/17_Nevermind_Deaf_Havana.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "nevermind",
+      "artist": "muque",
+      "has_synced": false,
+      "path": "select/pl_01_nevermind_muque.txt"
+    }
+  ]
+}
